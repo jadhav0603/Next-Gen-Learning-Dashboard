@@ -7,6 +7,10 @@ The project uses a dark mode Bento Grid layout, animated dashboard cards, Supaba
 
 Vercel Link: https://jadhav0603-next-gen-learning-dashbo.vercel.app/
 
+## GitHub Repository
+
+Repository Link:https://github.com/jadhav0603/Next-Gen-Learning-Dashboard
+
 ## Tech Stack
 
 * Next.js App Router
